@@ -224,11 +224,7 @@ import{n as e}from"./rolldown-runtime-CbXtAM7H.js";import{n as t,r as n,t as r}f
                   w-full
                   overflow-hidden
                   flex-shrink-0
-                `,style:{height:`220px`,aspectRatio:`16 / 9`},children:[(0,s.jsx)(`img`,{src:e.img,alt:e.alt,width:e.width,height:e.height,loading:`lazy`,decoding:`async`,sizes:`
-                    (max-width: 767px) 100vw,
-                    (max-width: 1023px) 50vw,
-                    378px
-                  `,className:`
+                `,style:{height:`220px`},children:[(0,s.jsx)(`img`,{src:e.img,alt:e.alt,width:e.width,height:e.height,loading:`lazy`,decoding:`async`,className:`
                     absolute
                     inset-0
                     w-full
@@ -254,17 +250,7 @@ import{n as e}from"./rolldown-runtime-CbXtAM7H.js";import{n as t,r as n,t as r}f
                           h-4
                           text-green-600
                           flex-shrink-0
-                        `,fill:`currentColor`,viewBox:`0 0 20 20`,"aria-hidden":`true`,children:(0,s.jsx)(`path`,{fillRule:`evenodd`,d:`
-                            M16.707 5.293
-                            a1 1 0 010 1.414
-                            l-8 8
-                            a1 1 0 01-1.414 0
-                            l-4-4
-                            a1 1 0 011.414-1.414
-                            L8 12.586
-                            l7.293-7.293
-                            a1 1 0 011.414 0z
-                          `,clipRule:`evenodd`})}),(0,s.jsx)(`span`,{children:e})]},e))})]})]},e.title))}),(0,s.jsxs)(`div`,{className:`
+                        `,fill:`currentColor`,viewBox:`0 0 20 20`,"aria-hidden":`true`,children:(0,s.jsx)(`path`,{fillRule:`evenodd`,d:`M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z`,clipRule:`evenodd`})}),(0,s.jsx)(`span`,{children:e})]},e))})]})]},e.title))}),(0,s.jsxs)(`div`,{className:`
             mt-16
             bg-green-700
             rounded-3xl
