@@ -298,7 +298,7 @@ Emergency: 24/7`,href:null}].map(e=>(0,s.jsxs)(`div`,{className:`
                     justify-center
                     text-xl
                     flex-shrink-0
-                  `,"aria-hidden":`true`,children:e.icon}),(0,s.jsxs)(`div`,{children:[(0,s.jsx)(`p`,{className:`
+                  `,"aria-hidden":`true`,children:e.icon}),(0,s.jsxs)(`div`,{className:`min-w-0`,children:[(0,s.jsx)(`p`,{className:`
                       text-xs
                       font-semibold
                       text-gray-700
@@ -311,6 +311,7 @@ Emergency: 24/7`,href:null}].map(e=>(0,s.jsxs)(`div`,{className:`
                         hover:text-green-700
                         transition-colors
                         whitespace-pre-line
+                        break-words
                       `,children:e.value}):(0,s.jsx)(`p`,{className:`
                         text-gray-900
                         font-medium
@@ -333,7 +334,7 @@ Emergency: 24/7`,href:null}].map(e=>(0,s.jsxs)(`div`,{className:`
                   text-xl
                   hover:text-red-800
                   transition-colors
-                `,children:`716-671-7373`}),(0,s.jsx)(`p`,{className:`text-red-700 text-sm mt-1`,children:`Available 24 hours, 7 days a week`})]})]}),(0,s.jsx)(`div`,{className:`lg:col-span-3 w-full`,children:(0,s.jsx)(`div`,{className:`
+                `,children:`716-671-7373`}),(0,s.jsx)(`p`,{className:`text-red-700 text-sm mt-1`,children:`Available 24 hours, 7 days a week`})]})]}),(0,s.jsx)(`div`,{className:`lg:col-span-3 w-full min-w-0`,children:(0,s.jsx)(`div`,{className:`
                 w-full
                 rounded-2xl
                 border
@@ -345,9 +346,11 @@ Emergency: 24/7`,href:null}].map(e=>(0,s.jsxs)(`div`,{className:`
                     block
                     w-full
                     border-0
-                    overflow-hidden
-                  `,style:{width:`100%`,minWidth:`100%`,height:`877px`,border:`none`,display:`block`,overflow:`hidden`}}):(0,s.jsx)(`div`,{className:`
-                    min-h-[877px]
+                    h-[1100px]
+                    lg:h-[877px]
+                  `,style:{width:`100%`,minWidth:`100%`,border:`none`,display:`block`,overflow:`hidden`}}):(0,s.jsx)(`div`,{className:`
+                    h-[1100px]
+                    lg:h-[877px]
                     flex
                     items-center
                     justify-center
