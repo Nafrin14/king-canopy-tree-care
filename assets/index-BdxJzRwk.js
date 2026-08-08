@@ -206,7 +206,7 @@ import{n as e}from"./rolldown-runtime-CbXtAM7H.js";import{n as t,r as n,t as r}f
                 py-3.5
                 rounded-full
                 transition-colors
-              `,children:[`Work With Us`,(0,s.jsx)(`svg`,{className:`w-4 h-4`,fill:`none`,stroke:`currentColor`,viewBox:`0 0 24 24`,"aria-hidden":`true`,children:(0,s.jsx)(`path`,{strokeLinecap:`round`,strokeLinejoin:`round`,strokeWidth:2,d:`M17 8l4 4m0 0l-4 4m4-4H3`})})]})]})]})})})}var A=[{img:d,alt:`Tree trimming and pruning`,title:`Tree Trimming & Pruning`,description:`Keep your trees healthy and beautiful with precision trimming. We remove dead branches and shape your trees for optimal growth.`,features:[`Crown thinning`,`Deadwood removal`,`Vista pruning`]},{img:f,alt:`Tree removal service`,title:`Tree Removal`,description:`Safe and efficient removal of hazardous, dead, or unwanted trees. We handle every job with care to protect your property.`,features:[`Hazard trees`,`Dead tree removal`,`Lot clearing`]},{img:p,alt:`Stump grinding service`,title:`Stump Grinding`,description:`Eliminate unsightly stumps with our professional grinding service. Reclaim your yard and prevent pest infestations.`,features:[`Full stump removal`,`Root flare grinding`,`Site cleanup`]},{img:m,alt:`Emergency tree service`,title:`Emergency Tree Service`,description:`Storm damage? Fallen tree? Our emergency crew is available 24/7 to protect your home and property from further damage.`,features:[`24/7 availability`,`Storm damage`,`Rapid response`]},{img:h,alt:`Tree health and fertilization`,title:`Tree Health & Fertilization`,description:`Diagnose and treat tree diseases, pest infestations, and nutrient deficiencies to keep your trees thriving.`,features:[`Disease treatment`,`Pest control`,`Deep root feeding`]},{img:g,alt:`Land clearing and landscaping`,title:`Land Clearing`,description:`Preparing land for construction or landscaping? We provide complete land clearing for residential and commercial sites.`,features:[`Brush clearing`,`Debris hauling`,`Grading prep`]}];function j(){return(0,s.jsx)(`section`,{id:`services`,className:`py-20 lg:py-24 bg-gray-50`,children:(0,s.jsxs)(`div`,{className:`max-w-7xl mx-auto px-4 sm:px-6 lg:px-8`,children:[(0,s.jsxs)(`div`,{className:`text-center mb-16`,children:[(0,s.jsx)(`span`,{className:`text-green-700 font-semibold text-sm uppercase tracking-widest`,children:`What We Do`}),(0,s.jsx)(`h2`,{className:`mt-2 text-4xl lg:text-5xl font-extrabold text-gray-900`,children:`Our Tree Services`}),(0,s.jsx)(`p`,{className:`mt-4 text-lg text-gray-600 max-w-2xl mx-auto`,children:`Comprehensive tree care solutions delivered by certified arborists with the equipment and expertise to handle any job.`})]}),(0,s.jsx)(`div`,{className:`grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8`,children:A.map(e=>(0,s.jsxs)(`div`,{className:`
+              `,children:[`Work With Us`,(0,s.jsx)(`svg`,{className:`w-4 h-4`,fill:`none`,stroke:`currentColor`,viewBox:`0 0 24 24`,"aria-hidden":`true`,children:(0,s.jsx)(`path`,{strokeLinecap:`round`,strokeLinejoin:`round`,strokeWidth:2,d:`M17 8l4 4m0 0l-4 4m4-4H3`})})]})]})]})})})}var A=[{img:d,alt:`Tree trimming and pruning`,title:`Tree Trimming & Pruning`,description:`Keep your trees healthy and beautiful with precision trimming. We remove dead branches and shape your trees for optimal growth.`,features:[`Crown thinning`,`Deadwood removal`,`Vista pruning`],width:650,height:378},{img:f,alt:`Tree removal service`,title:`Tree Removal`,description:`Safe and efficient removal of hazardous, dead, or unwanted trees. We handle every job with care to protect your property.`,features:[`Hazard trees`,`Dead tree removal`,`Lot clearing`],width:485,height:282},{img:p,alt:`Stump grinding service`,title:`Stump Grinding`,description:`Eliminate unsightly stumps with our professional grinding service. Reclaim your yard and prevent pest infestations.`,features:[`Full stump removal`,`Root flare grinding`,`Site cleanup`],width:500,height:292},{img:m,alt:`Emergency tree service`,title:`Emergency Tree Service`,description:`Storm damage? Fallen tree? Our emergency crew is available 24/7 to protect your home and property from further damage.`,features:[`24/7 availability`,`Storm damage`,`Rapid response`],width:700,height:408},{img:h,alt:`Tree health and fertilization`,title:`Tree Health & Fertilization`,description:`Diagnose and treat tree diseases, pest infestations, and nutrient deficiencies to keep your trees thriving.`,features:[`Disease treatment`,`Pest control`,`Deep root feeding`],width:500,height:292},{img:g,alt:`Land clearing and landscaping`,title:`Land Clearing`,description:`Preparing land for construction or landscaping? We provide complete land clearing for residential and commercial sites.`,features:[`Brush clearing`,`Debris hauling`,`Grading prep`],width:450,height:262}];function j(){return(0,s.jsx)(`section`,{id:`services`,className:`py-20 lg:py-24 bg-gray-50`,children:(0,s.jsxs)(`div`,{className:`max-w-7xl mx-auto px-4 sm:px-6 lg:px-8`,children:[(0,s.jsxs)(`div`,{className:`text-center mb-16`,children:[(0,s.jsx)(`span`,{className:`text-green-700 font-semibold text-sm uppercase tracking-widest`,children:`What We Do`}),(0,s.jsx)(`h2`,{className:`mt-2 text-4xl lg:text-5xl font-extrabold text-gray-900`,children:`Our Tree Services`}),(0,s.jsx)(`p`,{className:`mt-4 text-lg text-gray-600 max-w-2xl mx-auto`,children:`Comprehensive tree care solutions delivered by certified arborists with the equipment and expertise to handle any job.`})]}),(0,s.jsx)(`div`,{className:`grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8`,children:A.map(e=>(0,s.jsxs)(`div`,{className:`
                 flex flex-col
                 bg-white
                 rounded-2xl
@@ -219,7 +219,16 @@ import{n as e}from"./rolldown-runtime-CbXtAM7H.js";import{n as t,r as n,t as r}f
                 duration-300
                 group
                 hover:-translate-y-1
-              `,children:[(0,s.jsxs)(`div`,{className:`relative w-full overflow-hidden flex-shrink-0`,style:{height:`220px`,aspectRatio:`16 / 9`},children:[(0,s.jsx)(`img`,{src:e.img,alt:e.alt,width:`700`,height:`400`,loading:`lazy`,decoding:`async`,className:`
+              `,children:[(0,s.jsxs)(`div`,{className:`
+                  relative
+                  w-full
+                  overflow-hidden
+                  flex-shrink-0
+                `,style:{height:`220px`,aspectRatio:`16 / 9`},children:[(0,s.jsx)(`img`,{src:e.img,alt:e.alt,width:e.width,height:e.height,loading:`lazy`,decoding:`async`,sizes:`
+                    (max-width: 767px) 100vw,
+                    (max-width: 1023px) 50vw,
+                    378px
+                  `,className:`
                     absolute
                     inset-0
                     w-full
@@ -240,7 +249,22 @@ import{n as e}from"./rolldown-runtime-CbXtAM7H.js";import{n as t,r as n,t as r}f
                         gap-2
                         text-sm
                         text-gray-700
-                      `,children:[(0,s.jsx)(`svg`,{className:`w-4 h-4 text-green-600 flex-shrink-0`,fill:`currentColor`,viewBox:`0 0 20 20`,"aria-hidden":`true`,children:(0,s.jsx)(`path`,{fillRule:`evenodd`,d:`M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z`,clipRule:`evenodd`})}),(0,s.jsx)(`span`,{children:e})]},e))})]})]},e.title))}),(0,s.jsxs)(`div`,{className:`
+                      `,children:[(0,s.jsx)(`svg`,{className:`
+                          w-4
+                          h-4
+                          text-green-600
+                          flex-shrink-0
+                        `,fill:`currentColor`,viewBox:`0 0 20 20`,"aria-hidden":`true`,children:(0,s.jsx)(`path`,{fillRule:`evenodd`,d:`
+                            M16.707 5.293
+                            a1 1 0 010 1.414
+                            l-8 8
+                            a1 1 0 01-1.414 0
+                            l-4-4
+                            a1 1 0 011.414-1.414
+                            L8 12.586
+                            l7.293-7.293
+                            a1 1 0 011.414 0z
+                          `,clipRule:`evenodd`})}),(0,s.jsx)(`span`,{children:e})]},e))})]})]},e.title))}),(0,s.jsxs)(`div`,{className:`
             mt-16
             bg-green-700
             rounded-3xl
