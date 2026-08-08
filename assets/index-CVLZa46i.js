@@ -346,10 +346,10 @@ Emergency: 24/7`,href:null}].map(e=>(0,s.jsxs)(`div`,{className:`
                     block
                     w-full
                     border-0
-                    h-[1100px]
+                    h-[1000px]
                     lg:h-[877px]
-                  `,style:{width:`100%`,minWidth:`100%`,border:`none`,display:`block`,overflow:`hidden`}}):(0,s.jsx)(`div`,{className:`
-                    h-[1100px]
+                  `,style:{width:`100%`,minWidth:`100%`,border:`none`,display:`block`}}):(0,s.jsx)(`div`,{className:`
+                    h-[1000px]
                     lg:h-[877px]
                     flex
                     items-center
